@@ -1,0 +1,7 @@
+# Example Torsion Glyphs and Interpreter Outputs
+
+T-Word: ⟨φ:T:Γ⟩
+Output: [1, 0, 1, 1, 0]
+
+T-Word: ⟨ψ:T:Δ⟩
+Output: [0, 1, 0, 1, 1]
